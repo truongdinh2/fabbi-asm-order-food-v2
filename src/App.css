@@ -1,0 +1,71 @@
+
+.st2 {
+  margin-top: 30px;
+}
+img {
+  width: 30px;
+  height: 30px;
+}
+.app {
+  width: 1140px;
+}
+table, th, td {
+  border-collapse: collapse;
+  border: 2px solid rgb(89, 0, 255);
+  padding: 15px;
+}
+/* table {
+  border: 1px solid blue;
+  padding: 5px;
+} */
+form span{
+  font-weight: 600;
+}
+img{
+  cursor: pointer;
+  text-align: center;
+  margin-left: 80px;
+}
+body {
+  border: none;
+  width: 80% important!;
+  margin: 30px;
+  margin-left: 10%;
+}
+.step1 label{
+  padding-left: 30px;
+  padding-right: 10px;
+}
+.step2 label{
+  text-align: center;
+  padding: 10px;
+}
+.table3{
+  position: absolute;
+  top: 120px;
+  left: 600px;
+  width: 600px !important;
+}
+.step3 label{
+  padding-right: 23px !important;
+}
+.right{
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+.table4{
+  position: absolute;
+  top: 120px;
+  left: 600px;
+}
+.btn{
+  padding-top: 30px;
+  margin-left: 50px;
+}
+.none {
+  display: none;
+}
+.block {
+  color: gray;
+  opacity: 0.5;
+}
